@@ -26,6 +26,7 @@ p, ul {
 
 h1, h2, h3, h4 { 
 	font-family: 'Helvetica', 'Arial', 'Sans-Serif'; 
+	color: rgb(33, 33, 33); 
 }
 
 h1 { 
