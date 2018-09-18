@@ -22,26 +22,6 @@ nav {
 	color: var(--main-link-color);
 }
 
-p, ul { 
-	font-size: 14px; 
-	line-height: 1.4em; 
-	color: var(--main-text-color); 
-}
-
-h1, h2, h3, h4 { 
-	font-family: 'Raleway', sans-serif;
-	color: var(--main-text-color); 
-}
-
-h1 { 
-	font-size: 22px;  
-}
-h2 { 
-	font-size: 18px; 
-}
-h3 { 
-	font-size: 14px; 
-}
 
 nav ul, footer ul { 
 	font-size: 1em; 
@@ -69,6 +49,27 @@ a {
 a:hover {
 	text-decoration: none;
 	color: var(--main-hover-color);
+}
+
+p, ul { 
+	font-size: 14px; 
+	line-height: 1.4em; 
+	color: var(--main-text-color); 
+}
+
+h1, h2, h3, h4 { 
+	font-family: 'Raleway', sans-serif;
+	color: var(--main-text-color); 
+}
+
+h1 { 
+	font-size: 22px;  
+}
+h2 { 
+	font-size: 18px; 
+}
+h3 { 
+	font-size: 14px; 
 }
 
 hr {
