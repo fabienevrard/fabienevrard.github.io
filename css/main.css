@@ -97,3 +97,10 @@ ul.posts li {
 	font-size: 12px; 
 	text-transform: none; 
 }
+
+/* Masthead */
+.header, .footer, .header h3 { 
+	font-family: 'Montserrat', Helvetica, sans-serif; 
+	text-transform: none; 
+	font-weight: normal; 
+}
