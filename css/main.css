@@ -1,5 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:300,400);
 
+:root {
+    --main-link-color: rgb( 94,  0, 48);
+    --main-text-color: rgb( 33, 33, 33);
+}
+
 body { 
 	font-family: 'Raleway', sans-serif;
 	max-width: 800px;
@@ -7,28 +12,28 @@ body {
 }
 
 nav {
-	color: rgb(94, 0, 48);
+	color: var(--main-link-color);
 }
 
 a {
 	text-decoration: none; 
-	color: rgb(94, 0, 48); 
+	color: var(--main-link-color); 
 }
 
 a:hover {
 	text-decoration: none;
-	color: rgb(68, 0, 27);
+	color: var(--main-link-color);
 }
 
 p, ul { 
 	font-size: 14px; 
 	line-height: 1.4em; 
-	color: rgb(33, 33, 33); 
+	color: var(--main-text-color); 
 }
 
 h1, h2, h3, h4 { 
 	font-family: 'Raleway', sans-serif;
-	color: rgb(33, 33, 33); 
+	color: var(--main-text-color); 
 }
 
 h1 { 
