@@ -99,3 +99,8 @@ ul.posts li {
 	font-size: 12px; 
 	text-transform: none; 
 }
+
+table, th, td {
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px; 
+}
