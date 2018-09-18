@@ -1,17 +1,21 @@
 body { 
-  font-family: Helvetica, sans-serif;
-  max-width: 800px;
-  margin: 0 auto; /*this will cause the div to be in the center*/
+	font-family: Helvetica, sans-serif;
+	max-width: 800px;
+	margin: 0 auto; /*this will cause the div to be in the center*/
 }
 
 nav {
-	color: rgb(121, 0, 70);
+	color: rgb(94, 0, 48);
 }
 
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
 
-p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
+p, ul { 
+	font-size: 14px; 
+	line-height: 1.4em; 
+	color: rgb(33, 33, 33); 
+}
 
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 3em;  }
