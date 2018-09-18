@@ -103,4 +103,6 @@ ul.posts li {
 table, th, td {
 	font-family: 'Raleway', sans-serif;
 	font-size: 14px; 
+	vertical-align: top;
+	text-align: left;
 }
