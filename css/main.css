@@ -1,8 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:300,400);
 
 :root {
-    --main-link-color: rgb( 94,  0, 48);
-    --main-text-color: rgb( 33, 33, 33);
+	--main-link-color: rgb(  0, 75,112);
+/* 	--main-link-color: rgb( 94,  0, 48); */
+	--main-text-color: rgb( 33, 33, 33);
 }
 
 body { 
