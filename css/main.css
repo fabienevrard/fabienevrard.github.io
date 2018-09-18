@@ -1,4 +1,8 @@
-body { margin: 60px auto; width: 70%; }
+body { 
+  font-family: Helvetica, sans-serif;
+  max-width: 768px;
+  margin: 0 auto; /*this will cause the div to be in the center*/
+}
 
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
