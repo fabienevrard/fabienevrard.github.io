@@ -8,8 +8,15 @@ nav {
 	color: rgb(94, 0, 48);
 }
 
-a { text-decoration: none; color: #999; }
-a:hover { text-decoration: underline; }
+a {
+	text-decoration: none; 
+	color: rgb(94, 0, 48); 
+}
+
+a:hover {
+	text-decoration: none;
+	color: rgb(68, 0, 27);
+}
 
 p, ul { 
 	font-size: 14px; 
