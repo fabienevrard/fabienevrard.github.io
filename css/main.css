@@ -1,5 +1,5 @@
 body { 
-	font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+	font-family: 'Montserrat','Helvetica', 'Arial', 'Sans-Serif';
 	max-width: 800px;
 	margin: 0 auto; /*this will cause the div to be in the center*/
 }
@@ -96,11 +96,4 @@ ul.posts li {
 	float: right; 
 	font-size: 12px; 
 	text-transform: none; 
-}
-
-/* Masthead */
-.header, .footer, .header h2 { 
-	font-family: 'Montserrat', Helvetica, sans-serif; 
-	text-transform: none; 
-	font-weight: normal; 
 }
