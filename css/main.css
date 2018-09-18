@@ -68,7 +68,7 @@ nav ul li, footer ul li {
 
 nav li a.active {
 	padding-bottom: 5px;
-	border-bottom: 1px solid;
+	border-bottom: 2px solid;
 }
 
 hr {
