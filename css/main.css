@@ -4,6 +4,10 @@ body {
   margin: 0 auto; /*this will cause the div to be in the center*/
 }
 
+nav {
+	color: rgb(121, 0, 70);
+}
+
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
 
