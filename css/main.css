@@ -1,46 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:300,400);
 
-
-@font-face {
-  font-family: 'Latin Modern';
-  font-style: normal;
-  font-weight: normal;
-  font-display: swap;
-  src: url('https://github.com/vincentdoerig/latex-css/tree/master/fonts/LM-regular.woff2') format('woff2'),
-    url('https://github.com/vincentdoerig/latex-css/tree/master/fonts/LM-regular.woff') format('woff'),
-    url('https://github.com/vincentdoerig/latex-css/tree/master/fonts/LM-regular.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Latin Modern';
-  font-style: italic;
-  font-weight: normal;
-  font-display: swap;
-  src: url('https://github.com/vincentdoerig/latex-css/tree/master/fonts/LM-italic.woff2') format('woff2'),
-    url('https://github.com/vincentdoerig/latex-css/tree/master/fonts/LM-italic.woff') format('woff'),
-    url('https://github.com/vincentdoerig/latex-css/tree/master/fonts/LM-italic.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Latin Modern';
-  font-style: normal;
-  font-weight: bold;
-  font-display: swap;
-  src: url('https://github.com/vincentdoerig/latex-css/tree/master/fonts/LM-bold.woff2') format('woff2'),
-    url('https://github.com/vincentdoerig/latex-css/tree/master/fonts/LM-bold.woff') format('woff'),
-    url('https://github.com/vincentdoerig/latex-css/tree/master/fonts/LM-bold.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Latin Modern';
-  font-style: italic;
-  font-weight: bold;
-  font-display: swap;
-  src: url('https://github.com/vincentdoerig/latex-css/tree/master/fonts/LM-bold-italic.woff2') format('woff2'),
-    url('https://github.com/vincentdoerig/latex-css/tree/master/fonts/LM-bold-italic.woff') format('woff'),
-    url('https://github.com/vincentdoerig/latex-css/tree/master/https://github.com/vincentdoerig/latex-css/tree/masterfonts/LM-bold-italic.ttf') format('truetype');
-}
-
 :root {
 /* 	--main-link-color: rgb(  0, 75,112); */
 /* 	--main-link-color: rgb(  0, 75, 50); */
@@ -56,7 +15,7 @@
 }
 
 body { 
-	font-family: 'Latin Modern', 'Raleway', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	max-width: 800px;
 	margin: 0 auto; /*this will cause the div to be in the center*/
 }
